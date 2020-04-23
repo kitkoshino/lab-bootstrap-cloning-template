@@ -1,1 +1,34 @@
 /* Your own custom styles should be here */
+.jumbotron {
+  background-color: white;
+}
+
+.black-background {
+  background-color: black;
+}
+
+.height-css {
+  height: 700px;
+}
+
+.link-color {
+  color: black;
+}
+
+.margin-bottom-style {
+  margin-bottom: 30px;
+}
+
+.border-none-style {
+  border-style: none;
+}
+
+hr {
+  border-style: solid;
+  border-color: gainsboro;
+  border-radius: 1px;
+}
+
+link:hover {
+  color: blue;
+}
